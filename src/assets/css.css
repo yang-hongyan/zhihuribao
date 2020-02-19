@@ -1,0 +1,52 @@
+/*index*/
+*{margin:0;padding:0}
+a{text-decoration: none;}
+.headers{overflow: hidden;padding:0 1.2rem;}
+.headers img{float:right}
+.div_left{width:15%;margin-top:0.625rem;border-right:1px solid gray}
+.div_right span{font-weight: bold;font-size: 1.5rem;padding-right: 6rem;padding-left:1.25rem}
+.div_right{float:right;width:82%;padding-top:0.937rem}
+.div_right img{padding-bottom: 6px;}
+.number{font-weight: bold;font-size: 1.25rem;}
+img{vertical-align: middle;}
+banner img{width:100%;position: relative;}
+.content{margin:2rem 1.5rem;overflow: hidden;}
+.content_right{float:right;}
+.bolds{font-weight: bold;color:black;font-size:1.2rem;-webkit-line-clamp:2;display:-webkit-box;
+-webkit-box-orient:vertical;text-overflow:ellipsis;overflow: hidden;margin:0.7rem 0}
+.gray{font-size: 0.9rem;color:gray;}
+.content_right img{width:96px;height:96px;margin-left:0.5rem}
+.footer{overflow: hidden;bottom:0;padding:10px 0;width:100%;background-color: #F6F6F6;position: fixed;z-index: 2;}
+.footer a{width:20%;float:left;text-align: center;}
+.footer a img{width:2.6rem;height:2.2rem}
+.line{margin:2rem 1.5rem;color:darkgray}
+.line img{width:80%}
+.big_white{font-size: 1.375rem;padding-bottom:0.625rem;font-weight: bold;}
+.img{margin:0 1.5rem 0 1.25rem;position: absolute;bottom:1.875rem;color:white}
+/*wode*/
+.firstP{margin-bottom: 0.625rem;}
+.firstP img{width:3rem;height:3rem}
+.div p{text-align: center;}
+.user img{width:6rem;height:6rem}
+.text{font-weight: bold;font-size: 1.25rem;margin-top:0.625rem;padding-bottom: 1.8rem;border-bottom:1px solid darkgray}
+.my{font-size: 1.27rem;padding:1.25rem 0.6rem 1.25rem 0.625rem;border-bottom:1px solid darkgray}
+.inform{padding:1.25rem 0.6rem 0 0.625rem;font-size: 1.27rem;}
+.my img,.inform img{width:2rem;height:2rem;float:right}
+dl{margin-top:12.5rem;width:48%;text-align: center;float:left}
+dd{font-size: 1.25rem;}
+dt:first-child img{height:4rem}
+/*pinglun*/
+.p img{width:3rem;height:3rem}
+.eight{margin-left:6rem;font-size:1.5rem;font-weight: bold;}
+.one{font-size: 1.25rem;font-weight: bold;margin-top:1rem;margin-bottom: 1.875rem;}
+.long{padding:0 1rem;border-bottom:0.062rem solid lightgray;margin-bottom:1rem}
+.one{padding:0 1rem}
+.head img{width:3.125rem;height:3.125rem;margin-right:0.625rem}
+.head{font-size: 1.25rem;font-weight: bold;}
+.contents{padding-left:3.7rem;line-height: 1.5rem;}
+.grayText{font-size: 0.875rem;color:gray}
+.zan img,.wei img{width:3rem;height:3rem}
+.zan{margin-left:5rem}
+.wei{margin-left:1rem}
+.bold{padding:1rem 0 1rem 1rem}
+.head span{float:right}
